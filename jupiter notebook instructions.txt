@@ -1,0 +1,18 @@
+pip install expectexception
+import expectexception
+%%expect_exception ValueError
+
+%matplotlib inline
+
+%timeit
+
+# Ignore warnings
+import warnings
+warnings.filterwarnings('ignore')
+
+# To return to defaults
+warnings.filterwarnings('default')
+
+# To install a pkg inside Jupiter Notebook
+import sys
+!conda install --yes --prefix {sys.prefix} seaborn

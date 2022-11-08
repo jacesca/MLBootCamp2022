@@ -1,0 +1,25 @@
+# Jupiter Notebook on web
+https://colab.research.google.com/
+https://towardsdatascience.com/15-tips-and-tricks-for-jupyter-notebook-that-will-ease-your-coding-experience-e469207ac95c
+
+# Course in Github
+https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/pandas-exercises.ipynb
+
+# Teachable machine
+https://teachablemachine.withgoogle.com/
+
+# Machine Learning Playground
+https://ml-playground.com/
+
+# A 6 Step Field Guide for Building Machine Learning Projects
+https://www.mrdbourke.com/a-6-step-field-guide-for-building-machine-learning-projects/
+
+# How to Multiply Matrices
+https://www.mathsisfun.com/algebra/matrix-multiplying.html
+http://matrixmultiplication.xyz/
+
+# Built-in magic commands
+https://ipython.readthedocs.io/en/stable/interactive/magics.html
+
+# Metrics
+https://scikit-learn.org/stable/modules/model_evaluation.html
